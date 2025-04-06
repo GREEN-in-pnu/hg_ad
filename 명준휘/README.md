@@ -26,4 +26,15 @@
   # pandas를 이용해 JSON 읽기
   import pandas as pd
   pd.read_json('파일경로')  # key는 열(column)로, value는 행(row)으로 변환
+  ```
 
+#### XML
+- 시작 태그 <태그> : 루트(부모)
+- 자식 태그 <태그> : 자식
+- Element 구조: <태그>내용</태그>
+- 종료 태그 </태그>
+  ```python
+  # 자식 엘리먼트의 값을 출력하는 방법
+  from xml.etree.ElementTree import Element
+  element.findtext('자식태그')
+  ```
