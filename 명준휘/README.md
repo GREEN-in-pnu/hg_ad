@@ -7,8 +7,8 @@
 - **HTTP** : 웹 브라우저 → 웹 서버에 웹 페이지 요청
 - **HTML** (HyperText Markup Language) : 웹 서버 → 웹 브라우저에 웹 페이지 전송
 
-### 종류
-- **CSV**, **JSON**, **XML**
+## 2) HTML
+**종류** : *CSV*, *JSON*, *XML*
 
 #### JSON
 - Python의 dictionary와 비슷한 구조: `{key: value}`
