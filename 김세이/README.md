@@ -21,9 +21,8 @@
 
 ## 📚 참고 자료
 
-1. 참고 강의: [AI수학 - 부산대학교 김민우 교수님 강의 시리즈](https://www.youtube.com/playlist?list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXgS7k)
+1. 참고 강의: [혼자 공부하는 데이터 분석 with 파이썬 - 박해선](https://www.youtube.com/playlist?list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXgS7k)
 2. 참고 책: 『밑바닥부터 시작하는 머신러닝』 – 사이토 고키  
 3. 참고 블로그: https://velog.io/@example-user/ML-study-log
-4. 책 강의: https://www.youtube.com/playlist?list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXgS7k
 
 
