@@ -25,6 +25,5 @@
 
   # pandas를 이용해 JSON 읽기
   import pandas as pd
-
   pd.read_json('파일경로')  # key는 열(column)로, value는 행(row)으로 변환
 
